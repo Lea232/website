@@ -1,0 +1,22 @@
+header	{ background-color: rgb(160,160,160) ;
+	color: #FFFF66 ;
+	font-family: Comic Sans MS ; }
+
+nav	{ text-align: center ; }
+
+h1	{ font-size: 4 ;
+	font-family: Brush Script MT ;
+	color: #000000 ;
+	text-align: center ;
+	text-transform: uppercase ;
+	letter-spacing: 4px ; }
+
+footer	{ background-color: rgb(192,192,192) ; }
+
+h3	{ font-size: 1 ;
+	font-family: Comic Sans MS ;
+	color: #000000 ;
+	text-align: center ;
+	text-transform: uppercase ;
+	letter-spacing: 2px ; }
+	
