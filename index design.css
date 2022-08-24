@@ -20,3 +20,14 @@ h3	{ font-size: 1 ;
 	text-transform: uppercase ;
 	letter-spacing: 2px ; }
 	
+h4  { font-size: 0,5 ;
+    font-family: Brush Script MT ;
+    color: #000000 ;
+    text-align: center ;
+    text-transform: uppercase ;
+    letter-spacing: 1px ; }
+
+img { border-top:16px solid #000000 ;
+    border-right:16px solid #000000 ;
+    border-bottom:50px solid #000000 ;
+    border-left:16px solid #000000 ; }
